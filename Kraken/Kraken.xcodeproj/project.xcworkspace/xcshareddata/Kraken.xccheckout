@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E27E7142-091D-4F30-B1B0-CA8C1EA56BE7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Kraken</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9BE525FF-8B15-4BD0-A661-173FB7D63B72</key>
+		<string>ssh://github.com/justinHowlett/Kraken.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Kraken/Kraken.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9BE525FF-8B15-4BD0-A661-173FB7D63B72</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/justinHowlett/Kraken.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9BE525FF-8B15-4BD0-A661-173FB7D63B72</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9BE525FF-8B15-4BD0-A661-173FB7D63B72</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Kraken</string>
+		</dict>
+	</array>
+</dict>
+</plist>
